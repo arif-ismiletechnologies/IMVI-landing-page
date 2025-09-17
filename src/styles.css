@@ -1,0 +1,11 @@
+/* styles.css */
+.scrollbar-thin {
+    scrollbar-width: thin !important;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px !important;
+    opacity: 0;
+  }
+  
+  /* ... rest of your CSS ... */
